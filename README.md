@@ -8,3 +8,6 @@ Data Structure is an area of Computer Science that studies computational techniq
 
 - [2.1 Manipulation variables and constants](./2_section-basic-programming-in-python/2_1-manipulation_variables_and_contants/)
 - [2.2 Strings manipulation](./2_section-basic-programming-in-python/2_2-strings_manipulation/)
+- [2.3 Math operations](./2_section-basic-programming-in-python/2_3-math-operations/)
+- [2.4 Exercices](./2_section-basic-programming-in-python/2_4-exercices/)
+- [2.5 Logical and rational operators](./2_section-basic-programming-in-python/2_5-logical-and-rational-operators/)
